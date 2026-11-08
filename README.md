@@ -30,3 +30,7 @@ Ask your AI coding assistant to use **Architecture Decision Framework** when han
 ## License
 
 MIT License. See [LICENSE](LICENSE).
+
+## Additional Resources
+
+Added five architecture references: `context-discovery.md`, `trade-off-analysis.md`, `pattern-selection.md`, `examples.md`, and `patterns-reference.md`.
